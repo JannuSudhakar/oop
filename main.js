@@ -7,4 +7,4 @@ while(!board.finished()){
   board.move();
 }
 board.print_position();
-console.log(board.result);
+console.log(board.result());

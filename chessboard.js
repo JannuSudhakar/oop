@@ -41,7 +41,7 @@ function chessBoard(){
       return(this.move_history.length >= 8);
     },
     result: function(){
-      return("not yet implemented, miles to go before we sleep.")
+      return("result not yet implemented, miles to go before we sleep.")
     }
   }
 }
