@@ -1,0 +1,14 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "training to oop",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Jannu Sudhakar",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
